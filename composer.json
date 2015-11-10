@@ -1,9 +1,9 @@
 {
-    "name": "mdanter/ecc",
+    "name": "sagifire/phpecc",
     "description": "PHP Elliptic Curve Cryptography library",
     "type": "library",
-    "homepage": "https://github.com/mdanter/phpecc",
-    "time": "2014-07-07 12:44:15",
+    "homepage": "https://github.com/sagifire/phpecc",
+    "time": "2015-11-10 15:33:45",
     "license": "MIT",
     "authors": [
         {
@@ -38,7 +38,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mdanter\\Ecc\\": "src/"
+            "Mdanter\\Ecc\\": "Ecc/"
         }
     },
     "autoload-dev": {
